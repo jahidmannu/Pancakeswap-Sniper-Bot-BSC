@@ -4,6 +4,7 @@ I also trying to upload new versions of this program every week, to make fewer b
 You can enjoy this by clicking star, watch or make a fork ^_^
 Also, you can enjoy my other bots/programs or etc., they all in my profile on GitHub.
 # Change Log:
+- Version 1.3 [global changes, new design of program, new functions & more]
 - Version 1.2 [fixed minor bugs, added new icons]
 - Version 1.1 [release]
 # How to install:
