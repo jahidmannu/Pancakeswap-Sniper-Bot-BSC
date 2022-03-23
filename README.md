@@ -14,6 +14,6 @@ Also, you can enjoy my other bots/programs or etc., they all in my profile on Gi
 2. Open folder
 3. Open Pancakeswap_SniperBot_BSC.exe
 4. Next, understand intuitively. If you have questions, click on the help button on the top left.
-5. Enjoy!
+5. Enjoy and leave a star, if you like it!
 # Contact me:
 IF YOU HAVE ANY TROUBLES/BUGS WITH PROGRAM, YOU CAN TELL ME ABOUT IT ON: r1ghtl3ftwork@gmail.com
