@@ -5,6 +5,7 @@ You can enjoy this by clicking star, watch or make a fork ^_^
 Also, you can enjoy my other bots/programs or etc., they all in my profile on GitHub.
 # VIRUSTOTAL CHECK: https://www.virustotal.com/gui/file/acf9a279f873dc58d18216292f5219c7b4d2f1895dc31a1c89c685c97bcf3d94?nocache=1
 # Change Log:
+- Version 2.3 [minor changes, added new custom interface]
 - Version 2.2 [fixed minor bugs]
 - Version 2.1 [added 9 new functions, help button, guide for newbies & more, checkout full info in internal log on program startup]
 - Version 1.3 [global changes, new design of program, new functions & more]
